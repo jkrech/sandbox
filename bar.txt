@@ -1,2 +1,1 @@
-# bar.txt 
-This is an experimental file that we may decided to delete later on.
+I now declare this bazaar open!
