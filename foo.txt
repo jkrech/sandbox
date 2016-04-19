@@ -1,3 +1,4 @@
 this is the starting point of my log file.
 This is my input to foo!
 And this is Fu Manchu!
+Change it again
