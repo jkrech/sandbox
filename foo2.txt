@@ -1,2 +1,2 @@
 this is the starting point of my log file.
-This is my input to foo!
+This is my input to foo2!
